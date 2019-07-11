@@ -1,0 +1,10 @@
+== 明日から使えるShell Tips! =====
+Ctrl-zでタスクをバックグラウンドに送れる
+
+$ sudo apt-get update && sudo apt-get upgrade
+
+>>  Ctrl-z  <<
+
+$ fg
+
+
